@@ -12,9 +12,9 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 
 ## RESULTS
-#### The results of our analysis have been incorporated into a [story on Tableau Public](https://public.tableau.com/authoring/NYC_CitiBike_Visualizations_16747869835010/FinalPresentation#1)
+#### The results of our analysis have been incorporated into a [story on Tableau Public](https://public.tableau.com/app/profile/hanzian.ngoran/viz/NYC_CitiBike_Visualizations_16747869835010/Utilization?publish=yes)
 
-  - [POINT #1](Images/Pt1.png) - Comparing visualizations for the **'Top Starting Locations'** and **'Top Ending Locations'**, we can see that the most active starting locations are also among the most active ending locations.  This is important, because we need to know whether there might be an excess or shortage of bikes at particularly stations over time.
+  - [Step 1: Starting & Ending Locations](https://github.com/Hanzian/bikesharing/blob/main/Pictures/Screenshot%202023-01-26%20at%209.52.39%20PM.png) - Comparing visualizations for the **'Top Starting Locations'** and **'Top Ending Locations'**, we can see that the most active starting locations are also among the most active ending locations.  This is important, because we need to know whether there might be an excess or shortage of bikes at particularly stations over time.
 
   - [POINT #2](Images/Pt2.png) - Looking at visualizations for **'Checkout Times for Users'** and **'Checkout Times by Gender'**, we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour.  We also see that this pattern is the same regardless of gender.
 
